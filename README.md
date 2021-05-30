@@ -1,9 +1,5 @@
 # World Weather Analysis
 
-## Overview of World Weather Analysis
-The  
-
-
 
 ### Resources
 **Source of Data** : citipy.py, worldcities.csv, Google Weather API, Open Weather API 
@@ -21,7 +17,7 @@ The objective of the challenge is to essentially refactor code we wrote in “Va
 
 ### Vacation_Itinerary
 
-
+“Vacation_Itinerary.ipynb” dives into something new by utilizing Google Directions API to not only find the suitable weather and hotels but also the paths between cities by biking, walking, or driving. In this example four cities of Great Britain were chosen to represent the map markers and directions. The starting and ending city was Margate, then Oxford, followed by Newport, and finally Northam. The popup description lists the names of hotels, the city, country, and weather description which was created in the first two notebooks. It is important to note that failure in the first two notebooks would have resulted in failure of the last “Vacation_Itinerary” notebook so it is imperative that the syntax of the first two be perfect. 
 
 
 
